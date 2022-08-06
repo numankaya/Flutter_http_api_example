@@ -1,0 +1,36 @@
+[
+    {
+        "car_name": "Tesla",
+        "country": "China",
+        "year": 2005,
+        "model": [
+            {
+                "model_name":"A series",
+                "price":1500000,
+                "fuel": true
+            },
+            {
+                "model_name":"C series",
+                "price":2500000,
+                "fuel": false
+            }
+        ]
+    },
+    {
+        "car_name": "Honda",
+        "country": "Japonya",
+        "year": 1960,
+        "model": [
+            {
+                "model_name":"Civic",
+                "price":150000,
+                "fuel": true
+            },
+            {
+                "model_name":"Jazz",
+                "price":250000,
+                "fuel": false
+            }
+        ]
+    }
+]
